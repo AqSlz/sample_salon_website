@@ -1,6 +1,8 @@
 # Attractions Salon
 
-Duplicate Project for display. Project I participated with a team to create this sample hair salon website. Unfinished, Archived. 
+Duplicate of Project for display. 
+
+I worked with a team to create a sample hair salon website. Unfinished, Archived. 
 
 ## Description of Features
 
